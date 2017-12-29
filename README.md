@@ -1,4 +1,4 @@
-# MPayment AWS Resource Scheduler
+# AWS Resource Scheduler
 
 This repository is a fork of the AWS's [EC2 Scheluder](https://github.com/awslabs/ec2-scheduler) to extends its functionalities to provide an RDS Scheduler.
 
